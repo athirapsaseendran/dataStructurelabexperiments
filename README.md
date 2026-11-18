@@ -1,12 +1,7 @@
 
 # 📚 Data Structure Lab Experiments
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Language-C-blue.svg](https://img.shields.io/badge/Language-C-blue.svg)" />
-&#x20; \<img src="[https://img.shields.io/badge/Course-MCA-purple.svg](https://img.shields.io/badge/Course-MCA-purple.svg)" />
-&#x20; \<img src="[https://img.shields.io/badge/Subject-Data%20Structures-orange.svg](https://img.shields.io/badge/Subject-Data%20Structures-orange.svg)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Learning%20%26%20Practicing-success.svg](https://img.shields.io/badge/Status-Learning%20%26%20Practicing-success.svg)" />
-\</p>
+
 
 ## 👩‍💻 About the Repository
 
@@ -65,7 +60,7 @@ Follow these steps to compile and execute the C programs on your system.
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dataStructurelabexperiments.git
+git clone https://github.com/athirapsaseendran/dataStructurelabexperiments.git
 ```
 
 **Step 2: Navigate to the project folder**
@@ -133,7 +128,6 @@ Through these laboratory experiments, I aim to:
 This repository is maintained as a part of my MCA academic journey, documenting my practical learning, programming experience, and progress in understanding data structures and algorithms.
 
 ---
+Learning, Coding, and Growing One Experiment at a Time!
 
-\<p align="center">   ⭐ \<b>Learning, Coding, and Growing One Experiment at a Time!\</b> ⭐ \</p>
-
-\<p align="center">   \<i>Maintained with ❤️ by Athira\</i> \</p>
+Maintained with ❤️ by Athira
